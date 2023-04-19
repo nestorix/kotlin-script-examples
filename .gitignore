@@ -1,6 +1,6 @@
 .idea/
 .gradle/
-out/
+target/
 build/
 tmp/
 *.iml
